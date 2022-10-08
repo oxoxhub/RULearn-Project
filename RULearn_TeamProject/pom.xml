@@ -6,7 +6,7 @@
 	<!-- 필요한 라이브러리를 관리해주는 Project Object Model : lib를 파일로 관리할 필요가 없다 -->
 	<groupId>com.myweb</groupId>
 	<artifactId>home</artifactId>
-	<name>spsp_test</name>
+	<name>RULearn_TeamProject</name>
 	<packaging>war</packaging>
 	<version>1.0.0-BUILD-SNAPSHOT</version>
 	<properties>
